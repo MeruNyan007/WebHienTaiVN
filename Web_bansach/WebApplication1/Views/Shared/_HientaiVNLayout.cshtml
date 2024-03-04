@@ -1,0 +1,103 @@
+﻿<!DOCTYPE html>
+<html lang="zxx">
+    @RenderBody() 
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Hiền Tài VN">
+    <meta name="keywords" content="HienTaiVN">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="~/css/Web.css" rel="stylesheet" />
+    <link href="~/css/reset.css" rel="stylesheet" />
+    <title>Hiền Tài VN</title>
+    <!--Sử dụng boostrap-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div id="wrapper">
+        <div id="header">
+            <nav class="container">
+                <a href="" id="logo">
+                    <img src="~/img/logoHentai.jpg" alt="HienTaiVN" >
+                 </a>
+                 <ul id="main-menu">
+                     <li><a href="">Trang chủ</a></li>
+                    <li><a href="">List Truyện</a></li>
+                    <li><a href="">Thể loại</a>
+                     <!--<ul class="sub-menu">
+                            <li><a href="">Nhóm dịch</a></li>
+                            <li><a href="">Hoàn thành</a></li>
+                            <li><a href="">Truyện dài</a></li>
+                            <li><a href="">Truyện ngắn</a></li>
+                            <li><a href="">Con gái</a></li>
+                            <li><a href="">Con Trai</a></li>
+                            <li><a href="">Truyện Hàn</a></li>
+                            <li><a href="">Truyện Trung</a></li>
+                            <li><a href="">Truyện Nhật</a></li>
+                             </ul>-->
+                    </li>
+                    <li><a href="">Tìm</a></li>
+                    <li><a href="../Views/Shared/Login.cshtml">Đăng kí/Đăng nhập</a></li>
+                 </ul>
+            </nav>
+    </div>
+
+    <div class="Comic-list">
+        <div class="comic-card">
+            <img src="~/img/anime/gotoubun no hanayome.jpg"alt="">
+            <h2>Gotoubun No Hanayome</h2>
+            <p>Tác giả:Đang cập nhật</p>
+            <p>Thể loại:Harem,Romantic</p>
+            <button class="button button4">Đọc ngay</button>
+        </div>
+        <!--Bổ sung thêm truyện-->
+            <div class="comic-card">
+                <img src="~/img/anime/onii-chan-wa-oshimai.jpg" alt="">
+                <h2>Onii-chan wa oshimai</h2>
+                <p>Tác giả:Nekotoufu</p>
+                <p>Thể loại:Gender Bender,Ecchi,Sci-fi</p>
+                <button class="button button4">Đọc ngay</button>
+            </div>
+            <div class="comic-card">
+                <img src="~/img/anime/toi-da-bien-nguoi-ban-tho-au-thanh-con-gai.jpg" alt="">
+                <h2>Tôi đã biến người bạn thơ ấu thành con gái</h2>
+                <p>Tác giả:Banjo Azusa</p>
+                <p>Thể loại:Gender Bender,Comedy,Romance</p>
+                <button class="button button4">Đọc ngay</button>
+            </div>
+            <div class="comic-card">
+                <img src="~/img/anime/solo-leveling.jpg" alt="">
+                <h2>Solo Leveling</h2>
+                <p>Tác giả:Jang Sung Lak</p>
+                <p>Thể loại:Action,Adventure,Manhwa</p>
+                <button class="button button4">Đọc ngay</button>
+            </div>
+    </div>
+    <div class="sidebar">
+        <div class="social-icons">
+            <a href="#">Facebook</a>
+            <a href="#">X</a>
+            <a href="#">Instagram</a>
+            <a href="#">LinkedIn</a>
+        </div>
+    </div>
+    <div class="footer">
+        <div class="footer-item">
+            <h3>Cột 1</h3>
+            <p>Nội dung cột 1</p>
+        </div>
+            <div class="footer-item">
+                <h3>Cột 2</h3>
+                <p>Nội dung cột 2</p>
+            </div>
+            <div class="footer-item">
+                <h3>Cột 3</h3>
+                <p>Nội dung cột 3</p>
+            </div>
+    </div>
+
+</body>
+
+</html>

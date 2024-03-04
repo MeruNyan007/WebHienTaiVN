@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Studying\\Web_bansach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFEE6055-2879-4E20-9171-46761C76B35F}|WebApplication1\\WebApplication1.csproj|c:\\studying\\web_bansach\\webapplication1\\views\\shared\\_hientaivnlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFEE6055-2879-4E20-9171-46761C76B35F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_hientaivnlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFEE6055-2879-4E20-9171-46761C76B35F}|WebApplication1\\WebApplication1.csproj|c:\\studying\\web_bansach\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFEE6055-2879-4E20-9171-46761C76B35F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Studying\\Web_bansach\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Studying\\Web_bansach\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T06:36:11.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_HientaiVNLayout.cshtml",
+              "DocumentMoniker": "C:\\Studying\\Web_bansach\\WebApplication1\\Views\\Shared\\_HientaiVNLayout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_HientaiVNLayout.cshtml",
+              "ToolTip": "C:\\Studying\\Web_bansach\\WebApplication1\\Views\\Shared\\_HientaiVNLayout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_HientaiVNLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAADUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T08:12:24.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
